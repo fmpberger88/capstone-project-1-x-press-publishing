@@ -1,0 +1,35 @@
+{
+  "name": "x-press-publishing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.4.1",
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.1",
+    "express": "^4.18.2",
+    "mocha": "latest",
+    "morgan": "^1.10.0",
+    "random-flat-colors": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "sqlite3": "latest",
+    "supertest": "latest",
+    "whatwg-fetch": "latest"
+  },
+  "devDependencies": {
+    "babel": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "babel-preset-stage-2": "latest",
+    "webpack": "latest"
+  }
+}
